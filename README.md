@@ -47,3 +47,20 @@ Read more at [Why Vagrant?](https://www.vagrantup.com/intro/index.html)
     1. This will get you a list of allowed tasks that you can run
 5. To start the build type `invoke-build build`
 5. To create a publishable artifact `Invoke-Build Publish`  
+
+
+
+
+## Release Notes
+
+The following contains the releas notes for this lab.
+
+
+### Version 0.1.0 (Alpha Prime)
+
+* Inital Features
+    * Added in vagrant support
+    * Added in powershell build support
+    * Added in default gitignore files
+    * added `Package` and `Build` tasks
+

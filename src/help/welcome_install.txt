@@ -1,0 +1,15 @@
++=============================================================================================+
+| Welcome to VM Build                                                                        |
+|                                                                                             |
+|                                                                          Have Fun           |
++=============================================================================================+
+
+Hi Developer,
+
+This installs the dependencies to use this lab environment. THe following will be installed
+
+* git
+* vagrant
+* virtual box
+
+Have Fun!

@@ -1,0 +1,18 @@
++=============================================================================================+
+| Welcome to VM Builder                                                                       |
+|                                                                                             |
+|                                                                          Have Fun           |
++=============================================================================================+
+
+Hi Developer,
+
+Welcome to VM Builder. This should have everything you need to get started
+To Start Simply do the following.
+
+1. Invoke-Build Build
+2. This will build the VM
+3. Publish with Invoke-Build Publish
+
+ENJOY!
+
+

@@ -13,13 +13,10 @@ Working on it, I will file it as a item to take care of in the future. For now h
 
 The main maintainer of this repository is the Server Engineering Group at SSP in Collaboration wtih the SSP SRE teams.
 
-## Who Should Use This?
-
-This kit can be used by anyone in the organization, From Developers to Operations Folks to QA Engineers. 
 
 ## Who Should Commit Back To Us?
 
-Anyone, we take pull requests and you are more than free to suggest and add to the SEDK. 
+Anyone, we take pull requests and you are more than free to suggest and add to this image build.
 
 ## What Tools Are Installed?
 
